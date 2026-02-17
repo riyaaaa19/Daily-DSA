@@ -1,4 +1,4 @@
-# 🧠 Daily DSA Practice
+# 🧠 Daily DSA Practices
 
 Welcome to my **Daily DSA (Data Structures and Algorithms)** repository!  
 This repo is my personal space to track, organize, and commit solutions to coding problems I solve daily.
